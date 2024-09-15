@@ -4,7 +4,7 @@ func main (){
 
  // Использование краткой формы объявления переменных
  myInt := 21
- myFloat := 1.488
+ myFloat := 1.499
  myString := "ECHKEREEE!"
  myBool := true
 
